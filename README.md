@@ -1,0 +1,1 @@
+Este projeto tem como objetivo implementar uma aplicação simples utilizando o framework Spring Boot, com foco em soluções para desenvolvimento web. Ele serve como uma base para aprender e aplicar conceitos essenciais do Spring Boot, como configuração de REST APIs, gerenciamento de dependências com Spring Boot Starter, e integração com banco de dados, se necessário.
